@@ -14,6 +14,7 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 ## Projects
 
 - [ ] ***Updates Coming***
+- [ ] Environmental Performance Index Project
 
 ## How to reach me:
 - [ ] [Linkedin](https://www.linkedin.com/in/marc-lodge-0993a010/)
