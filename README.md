@@ -10,6 +10,8 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 - [ ] Model Evaluation: RSE, MSE, Accuracy, Precision, Recall, F1, ROC-AUC, cross-validation, bootstrapping, grid-search
 - [ ] Natural Language Processing: Tf-idf, Count Vectorizer
 - [ ] Timeseries Analysis: ARIMA, ARMA
+- [ ] RDBMS: SQLite, MySQL, PostgreSQL
+- [ ] Bayesian Statistics
 
 ## Projects
 
