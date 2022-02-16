@@ -19,7 +19,7 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 - [ ] ***Updates Coming***
 
 ## How to reach me:
-- [ ] [Linkedin](https://www.linkedin.com/in/marc-lodge-0993a010/)
+- [ ] [Linkedin](www.linkedin.com/in/marc-lodge)
 - [ ] [Medium](https://medium.com/@marclodge1)
 
 <!--
