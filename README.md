@@ -19,8 +19,8 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 - [ ] ***Updates Coming***
 
 ## How to reach me:
-- [ ] [Linkedin](www.linkedin.com/in/marc-lodge)
-- [ ] [Medium](https://medium.com/@marclodge)
+[Linkedin](www.linkedin.com/in/marc-lodge)
+[Medium](https://medium.com/@marclodge)
 
 <!--
 **Lodgimus/Lodgimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
