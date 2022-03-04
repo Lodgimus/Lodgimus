@@ -20,6 +20,7 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 ## How to reach me:
 [Linkedin](www.linkedin.com/in/marc-lodge)
+
 [Medium](https://medium.com/@marclodge)
 
 <!--
