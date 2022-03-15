@@ -15,7 +15,7 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 ## Projects
 
-- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index)
+- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) (Linear Regression)
 - [ ] ***Other Projects Coming Soon!!!***
 
 ## How to reach me:
