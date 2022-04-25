@@ -15,9 +15,9 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 ## Projects
 
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) (Python)
-
 #### Pre-Defined
+
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) (Python)
 
 #### Self-Directed
 
