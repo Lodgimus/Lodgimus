@@ -15,6 +15,12 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 ## Projects
 
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) (Python)
+
+#### Pre-Defined
+
+#### Self-Directed
+
 - [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) (Linear Regression)
 - [ ] ***Other Projects Coming Soon!!!***
 
