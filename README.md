@@ -4,7 +4,7 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 ## Skills:
 - [ ] Languages: Python
-- [ ] Tools: NumPy, SciPy, Pandas, Scikit-Learn, Statsmodels, Matplotlib, Seaborn, Tableau, Geopandas
+- [ ] Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas
 - [ ] Supervised Machine Learning: Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
 - [ ] Unsupervised Machine Learning: Pipelines, Principal Component Analysis, Clustering, K-Means
 - [ ] Model Evaluation: RSE, MSE, Accuracy, Precision, Recall, F1, ROC-AUC, cross-validation, bootstrapping, grid-search
@@ -17,15 +17,16 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 #### Pre-Defined / Course-Directed Projects
 
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) (Pure Python)
-- [ ] [SAT Scores / Drug Use](https://github.com/Marc-Lodge/) (Exploratory Data Analysis)
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) (Pure Python; NumPy)
+- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/) (Exploratory Data Analysis;  NumPy, Pandas, Seaborn, Matplotlib, SciPy)
 - [ ] [Ames Housing Data](https://github.com/Marc-Lodge/) (Machine Learning, Regression and Classification)
 - [ ] [Indeed.com: Web Scraping and Predicitng Salaries](https://github.com/Marc-Lodge/) (Web-scraping, Machine Learning, Model Evaluation)
 
 #### Self-Directed Projects
 
 - [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) (Linear Regression)
-- [ ] ***Other Projects Coming Soon!!!***
+- [ ] [S&P500](https://github.com/Marc-Lodge/) (Time-Series)
+- [ ] ***More to come***
 
 ## How to reach me:
 [Linkedin](www.linkedin.com/in/marc-lodge)
