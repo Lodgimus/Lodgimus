@@ -17,10 +17,18 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 #### Pre-Defined / Course-Directed Projects
 
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) (Pure Python; NumPy)
-- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/) (Exploratory Data Analysis;  NumPy, Pandas, Seaborn, Matplotlib, SciPy)
-- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/) (Machine Learning, Regression and Classification)
-- [ ] [Indeed.com: Web Scraping and Predicitng Salaries](https://github.com/Marc-Lodge/) (Web-scraping, Machine Learning, Model Evaluation)
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay)
+- Area of Focus: Pure Python
+- Tools: NumPy
+- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/)
+- Area of Focus: Exploratory Data Analysis
+- Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy
+- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/)
+- Area of Focus: Machine Learning, Regression and Classification
+- Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn
+- [ ] [Indeed.com: Web Scraping and Predicitng Salaries](https://github.com/Marc-Lodge/)
+- Area of Focus: Web-scraping, Machine Learning, Model Evaluation
+- Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy
 
 #### Self-Directed Projects
 
