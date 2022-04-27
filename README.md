@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I am a Data Scientist, please see below my skills along with some projects that demonstrate them.
+I am a Data Scientist, please see below my skills along with some projects that demonstrate them. Feel free to get in touch! 😊 
+
+[LinkedIn](https://www.linkedin.com/in/marc-lodge)
 
 ## Skills
 
@@ -26,9 +28,6 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] [Political Media](https://github.com/Marc-Lodge/Political_Media) | **Natural Language Processing** 
 - [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** 
 - [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** 
-
-## Feel free to get in touch! 😊 ##
-[LinkedIn](https://www.linkedin.com/in/marc-lodge)
 
 <!--
 
