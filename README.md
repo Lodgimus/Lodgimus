@@ -24,15 +24,6 @@ Please see below links to my portfolio with the skills and tools demonstrated.
 
 <!--
 
-| Project                                                    | Skills                        | Tools                                                    | 
-| ---------------------------------------------------------- |-------------------------------| ---------------------------------------------------------|
-| [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | Pure Python                   | NumPy                                                    |
-| [SAT Scores](https://github.com/Marc-Lodge/)    | Exploratory Data Analysis     | NumPy, Pandas, Seaborn, Matplotlib, SciPy                |
-| [Ames Housing Data](https://github.com/Marc-Lodge/)        | Machine Learning, Regression and Classification| NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn|
-| [Indeed.com](https://github.com/Marc-Lodge/) | Web-scraping, Machine Learning, Model Evaluation| NumPy, Pandas, Seaborn, Matplotlib, SciPy|
-| [EPI Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | Linear Regression                | NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn, statsmodels|
-| [S&P500](https://github.com/Marc-Lodge/) | Time-Series Analysis                   | NumPy, Pandas, Seaborn, yahoofinance, plotly, Interactive Brokers API|
-
 ## Skills:
 - [ ] Languages: Python
 - [ ] Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas
@@ -56,4 +47,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
