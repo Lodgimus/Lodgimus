@@ -9,7 +9,7 @@ Please see below links to my portfolio with the skills and tools demonstrated.
 #### Course-Directed
 
 - [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Pure Python** | *NumPy*
-- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/) | **Exploratory Data Analysis** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
+- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
 - [ ] [Ames Housing Data](https://github.com/Marc-Lodge/) | **Machine Learning** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn*
 - [ ] [Indeed.com](https://github.com/Marc-Lodge/) | **Web-scraping, Machine Learning, Model Evaluation** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
 
