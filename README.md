@@ -2,7 +2,7 @@
 
 I am Marc, a Data Scientist with Python Programming and Quantitative Analysis skills. With a background in Finance, Trading and Shipping Operations, Risk and Analysis.
 
-Please see below links to my portfolio / projects-to-date with the skills and tools used / demonstrated.
+Please see below links to my portfolio with the skills and tools demonstrated.
 
 ## Pre-Defined / Course-Directed Projects
 
