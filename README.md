@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Data Scientist with Python Programming and Quantitative Analysis skills. Please see below a list of my skills and underneath that are my projects demonstrating these.
+I am a Data Scientist, please see below a list of my skills and projects with these skills demonstrated underneath.
 
 ## Skills
 
