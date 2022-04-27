@@ -25,14 +25,13 @@ Please see below links to my portfolio with the skills and tools demonstrated.
 <!--
 
 ## Skills:
-- [ ] Languages: Python
+- [ ] Languages: Python, SQL
 - [ ] Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas
 - [ ] Supervised Machine Learning: Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
 - [ ] Unsupervised Machine Learning: Pipelines, Principal Component Analysis, Clustering, K-Means
 - [ ] Model Evaluation: RSE, MSE, Accuracy, Precision, Recall, F1, ROC-AUC, cross-validation, bootstrapping, grid-search
 - [ ] Natural Language Processing: Tf-idf, Count Vectorizer
 - [ ] Timeseries Analysis: ARIMA, ARMA
-- [ ] RDBMS: SQLite, MySQL, PostgreSQL
 - [ ] Bayesian Statistics
 
 **Lodgimus/Lodgimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
