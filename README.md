@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Data Scientist, please see below a list of my skills and projects with these skills demonstrated underneath.
+I am a Data Scientist, please see below a list of my skills along with some projects that demonstrate them.
 
 ## Skills
 
@@ -25,7 +25,7 @@ I am a Data Scientist, please see below a list of my skills and projects with th
 - [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** 
 - [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** 
 
-## How to reach me:
+## Feel free to get in touch! 😊 ##
 [Linkedin](www.linkedin.com/in/marc-lodge)
 
 <!--
