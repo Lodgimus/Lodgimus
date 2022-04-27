@@ -26,7 +26,7 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** 
 
 ## Feel free to get in touch! 😊 ##
-[Linkedin](www.linkedin.com/in/marc-lodge)
+[LinkedIn](www.linkedin.com/in/marc-lodge)
 
 <!--
 
