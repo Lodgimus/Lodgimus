@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Data Scientist, please see below a list of my skills along with some projects that demonstrate them.
+I am a Data Scientist, please see below my skills along with some projects that demonstrate them.
 
 ## Skills
 
