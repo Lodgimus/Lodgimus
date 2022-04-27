@@ -10,8 +10,8 @@ I am a Data Scientist, please see below a list of my skills and projects with th
 - [ ] **Unsupervised Machine Learning**: Pipelines, Principal Component Analysis, Clustering, K-Means, Cluster Evaluation
 - [ ] **Model Evaluation**: RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC-AUC, cross-validation, grid-search
 - [ ] **Additional Machine Learning**: Decision Trees, Random Forests, Bagging, Boosting, Natural Language Processing
-- [ ] **Statistics**: Probability distributions, Confidence Intervals, Central Limit Theorem, Bayes Rule, Naive Bayes
 - [ ] **Networks**: Network Analysis & Robustness, Communities, Recommended Systems, Neural Networks, Tensorflow
+- [ ] **Statistics**: Probability distributions, Confidence Intervals, Central Limit Theorem, Bayes Rule, Naive Bayes
 - [ ] **Big Data**: Map-Reduce Algorithm, Divide and Conquer, Hadoop, Spark, AWS
 - [ ] **Timeseries**: Basics, Autocorrelations, ARMA, ARIMA models
 - [ ] **Additional**: HTML, Webscraping, RegEx, Databases, API's
