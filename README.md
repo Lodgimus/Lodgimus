@@ -18,11 +18,11 @@ I am a Data Scientist with Python Programming and Quantitative Analysis skills..
 ## Projects
 
 - [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Python Fundamentals** 
-- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
-- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/Ames) | **Machine Learning** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn*
-- [ ] [Indeed.com](https://github.com/Marc-Lodge/Indeed) | **Web Scraping, Machine Learning, Model Evaluation** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
-- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn, statsmodels*
-- [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** | *NumPy, Pandas, Seaborn, yahoofinance, plotly, Interactive Brokers API*
+- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** 
+- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/Ames) | **Machine Learning** 
+- [ ] [Indeed.com](https://github.com/Marc-Lodge/Indeed) | **Web Scraping, Machine Learning, Model Evaluation** SciPy*
+- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** 
+- [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** 
 
 ## How to reach me:
 [Linkedin](www.linkedin.com/in/marc-lodge)
