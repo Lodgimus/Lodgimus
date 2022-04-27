@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Data Scientist with Python Programming and Quantitative Analysis skills... With a background in Finance, Trading and Shipping Operations, Risk and Analysis. Please see below a list of my skills and underneath that are my projects demonstrating these.
+I am a Data Scientist with Python Programming and Quantitative Analysis skills. Please see below a list of my skills and underneath that are my projects demonstrating these.
 
 ## Skills
 
