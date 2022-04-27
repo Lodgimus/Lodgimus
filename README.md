@@ -4,7 +4,7 @@ I am Marc, a Data Scientist with Python Programming and Quantitative Analysis sk
 
 Please see below links to my portfolio with the skills and tools demonstrated.
 
-## Pre-Defined / Course-Directed Projects
+## Course-Directed Projects
 
 - [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Pure Python** | *NumPy*
 - [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/) | **Exploratory Data Analysis** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
