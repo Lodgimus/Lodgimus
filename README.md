@@ -1,38 +1,33 @@
 # Hi there 👋
 
-I am a Data Scientist with Python Programming and Quantitative Analysis skills. With a background in Finance, Trading and Shipping Operations, Risk and Analysis.
+I am a Data Scientist with Python Programming and Quantitative Analysis skills... With a background in Finance, Trading and Shipping Operations, Risk and Analysis. Please see below a list of my skills and underneath that are my projects demonstrating these.
 
-Please see below links to my portfolio with the skills and tools demonstrated.
+## Skills
+
+- [ ] **Languages**: Python, SQL
+- [ ] **Tools**: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas, GIT, Hadoop, Spark, AWS 
+- [ ] **Statistics**: Probability distributions, Confidence Intervals, Central Limit Theorem, Bayes Rule, Naive Bayes
+- [ ] **Supervised Machine Learning**: Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
+- [ ] **Unsupervised Machine Learning**: Pipelines, Principal Component Analysis, Clustering, K-Means, Cluster Evaluation
+- [ ] **Model Evaluation**: RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC-AUC, cross-validation, grid-search
+- [ ] **Additional Machine Learning**: Decision Trees, Random Forests, Bagging, Boosting, Natural Language Processing
+- [ ] **Networks**: Network Analysis, Network Robustness, Communities, Recommended Systems, Neural Networks, Tensorflow
+- [ ] **Big Data**: Map-Reduce Algorithm, Divide and Conquer, Hadoop, Spark, AWS
+- [ ] **Timeseries**: Basics, Autocorrelations, ARMA, ARIMA models
 
 ## Projects
 
-#### Course-Directed
-
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Pure Python** | *NumPy*
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Python Fundamentals** 
 - [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
-- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/) | **Machine Learning** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn*
-- [ ] [Indeed.com](https://github.com/Marc-Lodge/) | **Web Scraping, Machine Learning, Model Evaluation** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
-
-#### Self-Directed
-
+- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/Ames) | **Machine Learning** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn*
+- [ ] [Indeed.com](https://github.com/Marc-Lodge/Indeed) | **Web Scraping, Machine Learning, Model Evaluation** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy*
 - [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn, statsmodels*
-- [ ] [S&P500](https://github.com/Marc-Lodge/) | **Time-Series Analysis** | *NumPy, Pandas, Seaborn, yahoofinance, plotly, Interactive Brokers API*
-- [ ] ***More to come***
+- [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** | *NumPy, Pandas, Seaborn, yahoofinance, plotly, Interactive Brokers API*
 
 ## How to reach me:
 [Linkedin](www.linkedin.com/in/marc-lodge)
 
 <!--
-
-## Skills:
-- [ ] Languages: Python, SQL
-- [ ] Tools: NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas
-- [ ] Supervised Machine Learning: Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
-- [ ] Unsupervised Machine Learning: Pipelines, Principal Component Analysis, Clustering, K-Means
-- [ ] Model Evaluation: RSE, MSE, Accuracy, Precision, Recall, F1, ROC-AUC, cross-validation, bootstrapping, grid-search
-- [ ] Natural Language Processing: Tf-idf, Count Vectorizer
-- [ ] Timeseries Analysis: ARIMA, ARMA
-- [ ] Bayesian Statistics
 
 **Lodgimus/Lodgimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
