@@ -7,7 +7,7 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] **Languages** | Python, SQL
 - [ ] **Tools** | NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas, GIT, Hadoop, Spark, AWS 
 - [ ] **Supervised Machine Learning** | Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
-- [ ] **Unsupervised Machine Learning** | Pipelines, Principal Component Analysis, Clustering, K-Means, Cluster Evaluation
+- [ ] **Unsupervised Machine Learning** | Pipelines, Principal Component Analysis, Clustering, K-Means, Clustering Evaluation
 - [ ] **Model Evaluation** | RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC, PR Curves, cross-validation, grid-search
 - [ ] **Additional Machine Learning** | Decision Trees, Random Forests, Bagging, Boosting, Natural Language Processing
 - [ ] **Networks** | Network Analysis & Robustness, Communities, Recommended Systems, Neural Networks, Tensorflow
