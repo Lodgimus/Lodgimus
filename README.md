@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I am a Data Scientist, please see below my skills along with some projects that demonstrate them. Feel free to get in touch! 😊 
-
-[LinkedIn](https://www.linkedin.com/in/marc-lodge)
+I am a Data Scientist, please see below my skills along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
 ## Skills
 
