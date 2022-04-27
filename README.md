@@ -14,7 +14,6 @@ Please see below links to my portfolio / projects-to-date with the skills and to
 ## Self-Directed Projects
 
 - [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** | *NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn, statsmodels*
-
 - [ ] [S&P500](https://github.com/Marc-Lodge/) | **Time-Series Analysis** | *NumPy, Pandas, Seaborn, yahoofinance, plotly, Interactive Brokers API*
 - [ ] ***More to come***
 
