@@ -18,14 +18,14 @@ I am a Data Scientist, please see below my skills along with some projects that 
 
 ## Projects
 
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Python Fundamentals** 
-- [ ] [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis**
-- [ ] [Seoul_Cycle](https://github.com/Marc-Lodge/Seoul_Cycle) | **Regression**
-- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/Ames) | **Machine Learning** 
-- [ ] [Indeed.com](https://github.com/Marc-Lodge/Indeed) | **Web Scraping, Machine Learning, Model Evaluation**
-- [ ] [Political Media](https://github.com/Marc-Lodge/Political_Media) | **Natural Language Processing** 
-- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index) | **Linear Regression** 
-- [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis** 
+- [ ] **Python Fundamentals** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay)
+- [ ] **Exploratory Data Analysis** | [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores)
+- [ ] **Linear Regression** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
+- [ ] **Supervised Machine Learning** | [Ames Housing Data](https://github.com/Marc-Lodge/Ames)
+- [ ] **Web Scraping, Machine Learning, Model Evaluation** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
+- [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
+- [ ] **Linear Regression** | [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index)
+- [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
 <!--
 
