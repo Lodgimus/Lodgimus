@@ -32,7 +32,7 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] ***Unsupervised Machine Learning***
 - [ ] ***Networks***
 - [ ] ***Statistics***
-- [ ] ***Big Data*** 
+- [ ] ***Big Data / AWS*** 
 
 <!--
 
