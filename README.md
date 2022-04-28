@@ -3,9 +3,8 @@
 I am a Data Scientist, please see below my skills along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
 ## Skills
-
-- [ ] **Languages** | Python, SQL
-- [ ] **Tools** | NumPy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-Learn, Statsmodels, Tableau, Geopandas, GIT, Hadoop, Spark, AWS 
+ 
+- [ ] **Tools** | Python, SQL, NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch, Tableau, GIT
 - [ ] **Supervised Machine Learning** | Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
 - [ ] **Unsupervised Machine Learning** | Pipelines, Principal Component Analysis, Clustering, K-Means, Clustering Evaluation
 - [ ] **Model Evaluation** | RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC, PR Curves, cross-validation, grid-search
