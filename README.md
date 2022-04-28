@@ -18,7 +18,7 @@ I am a Data Scientist, please see below my skills along with some projects that 
 ## Projects
 
 - [ ] **Python Fundamentals** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay)
-- [ ] **Exploratory Data Analysis** | [SAT Scores & Drug Use](https://github.com/Marc-Lodge/SAT_Scores)
+- [ ] **Exploratory Data Analysis** | [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores)
 - [ ] **Linear Regression** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
 - [ ] **Supervised Machine Learning** | [Ames Housing Data](https://github.com/Marc-Lodge/Ames)
 - [ ] **Web Scraping, Machine Learning, Model Evaluation** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
