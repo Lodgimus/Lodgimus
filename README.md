@@ -27,7 +27,7 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] **Linear Regression** | [Environmental Performance Index](https://github.com/Marc-Lodge/Environmental_Performance_Index)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
-*Coming Soon!*
+*Other Projects Coming Soon!*
 
 - [ ] **SQL** 
 - [ ] **Unsupervised Machine Learning** 
