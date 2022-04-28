@@ -4,7 +4,7 @@ I am a Data Scientist, please see below my skills along with some projects that 
 
 ## Skills
  
-- [ ] **Tools** | Python, SQL, NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch, Tableau, GIT
+- [ ] **Tools** | Python, SQL, NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch, Tableau
 - [ ] **Supervised Machine Learning** | Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
 - [ ] **Unsupervised Machine Learning** | Pipelines, Principal Component Analysis, Clustering, K-Means, Clustering Evaluation
 - [ ] **Model Evaluation** | RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC, PR Curves, cross-validation, grid-search
