@@ -22,7 +22,6 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] **Supervised Machine Learning** | [Ames Housing Data](https://github.com/Marc-Lodge/Ames)
 - [ ] **Web Scraping, Machine Learning, Model Evaluation** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
 - [ ] **Linear Regression** | [Environmental Performance Index](https://github.com/Marc-Lodge/EPI)
-- [ ] **Linear Regression** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
 - [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
@@ -33,6 +32,10 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] ***Networks***
 - [ ] ***Statistics***
 - [ ] ***Big Data / AWS*** 
+
+<!--
+- [ ] **Linear Regression** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
+-->
 
 <!--
 
