@@ -19,14 +19,15 @@ I am a Data Scientist, please see below my skills along with some projects that 
 
 - [ ] **Python Fundamentals** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay)
 - [ ] **Exploratory Data Analysis** | [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores)
-- [ ] **Supervised Machine Learning** | [Ames Housing Data](https://github.com/Marc-Lodge/Ames)
-- [ ] **Web Scraping, Machine Learning, Model Evaluation** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
 - [ ] **Linear Regression** | [Environmental Performance Index](https://github.com/Marc-Lodge/EPI)
-- [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
-- [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
 *Other Projects Coming Soon!*
 
+- [ ] *****Linear Regression** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)***
+- [ ] *****Supervised Machine Learning** | [Ames Housing Data](https://github.com/Marc-Lodge/Ames)***
+- [ ] *****Web Scraping, Machine Learning, Model Evaluation** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)***
+- [ ] *****Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)***
+- [ ] *****Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)***
 - [ ] ***SQL***
 - [ ] ***Unsupervised Machine Learning***
 - [ ] ***Networks***
