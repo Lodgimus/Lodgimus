@@ -2,7 +2,7 @@
 
 I am a Data Scientist, please see below my topics of knowledge along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
-## Skills
+## Knowledge
  
 - [ ] **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
 - [ ] **Supervised Machine Learning** | Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
