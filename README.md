@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Data Scientist, please see below my knowledge along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
+I am a Data Scientist, please see below my areas of knowledge along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
 ## Knowledge
  
