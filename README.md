@@ -4,7 +4,7 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 
 ## 
 
-- [x] **Pure Python** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay)
+- [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay)
 - [ ] **Exploratory Data Analysis** | [SATs](https://github.com/Marc-Lodge/SATs)
 - [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
 - [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)
@@ -15,10 +15,11 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 *Other Projects Coming Soon!*
 
 - [ ] ***SQL***
+- [ ] ***Ensemble Methods***
 - [ ] ***Unsupervised Machine Learning***
-- [ ] ***Networks***
-- [ ] ***Statistics***
-- [ ] ***Big Data / AWS*** 
+- [ ] ***Advanced Statistics***
+- [ ] ***Big Data / Spark / AWS*** 
+- [ ] ***Networks / Neural Networks***
 
 <!--
 - **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
