@@ -1,7 +1,27 @@
 # Hi there 👋
 
-I am a Data Scientist, please see below my skills along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
+I am a Data Scientist, please see below my topics of knowledge along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
+## Project | Topic | Tools & Packages
+
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Pure Python** | *NumPy, Pandas*
+- [ ] [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** | *Seaborn, Matplotlib, SciPy*
+- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/EPI) | **Supervised Machine Learning** | *Linear Regression, statsmodel, RSE, MSE, train-test split*
+
+*Other Projects Coming Soon!*
+
+- [ ] [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle) | **Supervised Machine Learning**
+- [ ] [Ames Housing Data](https://github.com/Marc-Lodge/Ames) | **Supervised Machine Learning**
+- [ ] [Indeed.com](https://github.com/Marc-Lodge/Indeed) | **Web Scraping, Machine Learning, Model Evaluation**
+- [ ] [Political Media](https://github.com/Marc-Lodge/Political_Media) | **Natural Language Processing**
+- [ ] [S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis**
+- [ ] ***SQL***
+- [ ] ***Unsupervised Machine Learning***
+- [ ] ***Networks***
+- [ ] ***Statistics***
+- [ ] ***Big Data / AWS*** 
+
+<!--
 ## Skills
  
 - [ ] **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
@@ -14,28 +34,6 @@ I am a Data Scientist, please see below my skills along with some projects that 
 - [ ] **Big Data** | Map-Reduce Algorithm, Divide and Conquer, Hadoop, Spark, AWS
 - [ ] **Timeseries** | Basics, Autocorrelations, ARMA, ARIMA models
 - [ ] **Additional** | HTML, Webscraping, RegEx, Databases, API's
-
-## Projects
-
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Python Fundamentals** 
-- [ ] [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** 
-- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/EPI) | **Linear Regression** 
-
-*Other Projects Coming Soon!*
-
-- [ ] ***[Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle) | **Linear Regression*****
-- [ ] ***[Ames Housing Data](https://github.com/Marc-Lodge/Ames) | **Supervised Machine Learning*****
-- [ ] ***[Indeed.com](https://github.com/Marc-Lodge/Indeed) | **Web Scraping, Machine Learning, Model Evaluation*****
-- [ ] ***[Political Media](https://github.com/Marc-Lodge/Political_Media) | **Natural Language Processing*****
-- [ ] ***[S&P500](https://github.com/Marc-Lodge/SPY) | **Time-Series Analysis*****
-- [ ] ***SQL***
-- [ ] ***Unsupervised Machine Learning***
-- [ ] ***Networks***
-- [ ] ***Statistics***
-- [ ] ***Big Data / AWS*** 
-
-<!--
-- [ ] **Linear Regression** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
 -->
 
 <!--
