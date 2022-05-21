@@ -2,14 +2,15 @@
 
 I am a Data Scientist, please see below my areas of knowledge along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
-## Knowledge | Projects
+## 
 
 - [x] **Pure Python** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) 
-- [ ] **EDA** | [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores) 
+- [ ] **Exploratory Data Analysis** | [SATs](https://github.com/Marc-Lodge/SATs) 
+- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)  
+- [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames) | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
+- [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 - [ ] **Web Scraping** | [Indeed.com](https://github.com/Marc-Lodge/Indeed) 
 - [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
-- [x] **Supervised Machine Learning** | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle) | [Ames Housing Data](https://github.com/Marc-Lodge/Ames) | [EPI](https://github.com/Marc-Lodge/EPI)  
-- [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
 *Other Projects Coming Soon!*
 
