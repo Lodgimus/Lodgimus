@@ -2,11 +2,24 @@
 
 I am a Data Scientist, please see below my topics of knowledge along with some projects that demonstrate them. [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
-## Project | Topic | Tools & Packages
+## Skills
+ 
+- [ ] **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
+- [ ] **Supervised Machine Learning** | Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
+- [ ] **Unsupervised Machine Learning** | Pipelines, Principal Component Analysis, Clustering, K-Means, Clustering Evaluation
+- [ ] **Model Evaluation** | RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC, PR Curves, cross-validation, grid-search
+- [ ] **Additional Machine Learning** | Decision Trees, Random Forests, Bagging, Boosting, Natural Language Processing
+- [ ] **Networks** | Network Analysis & Robustness, Communities, Recommended Systems, Neural Networks, Tensorflow
+- [ ] **Statistics** | Probability distributions, Confidence Intervals, Central Limit Theorem, Bayes Rule, Naive Bayes
+- [ ] **Big Data** | Map-Reduce Algorithm, Divide and Conquer, Hadoop, Spark, AWS
+- [ ] **Timeseries** | Basics, Autocorrelations, ARMA, ARIMA models
+- [ ] **Additional** | HTML, Webscraping, RegEx, Databases, API's
 
-- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Pure Python** | *NumPy, Pandas*
-- [ ] [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** | *Seaborn, Matplotlib, SciPy*
-- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/EPI) | **Supervised Machine Learning** | *Linear Regression, statsmodel, RSE, MSE, train-test split*
+## Projects
+
+- [ ] [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) | **Pure Python** 
+- [ ] [SAT Scores](https://github.com/Marc-Lodge/SAT_Scores) | **Exploratory Data Analysis** 
+- [ ] [Environmental Performance Index](https://github.com/Marc-Lodge/EPI) | **Supervised Machine Learning** 
 
 *Other Projects Coming Soon!*
 
@@ -22,18 +35,7 @@ I am a Data Scientist, please see below my topics of knowledge along with some p
 - [ ] ***Big Data / AWS*** 
 
 <!--
-## Skills
- 
-- [ ] **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
-- [ ] **Supervised Machine Learning** | Linear/Logistic Regression, Classification, kNN, Decision Trees, Bagging/Boosting Models
-- [ ] **Unsupervised Machine Learning** | Pipelines, Principal Component Analysis, Clustering, K-Means, Clustering Evaluation
-- [ ] **Model Evaluation** | RSE, MSE, Baseline Accuracy, Precision, Recall, F1, ROC, PR Curves, cross-validation, grid-search
-- [ ] **Additional Machine Learning** | Decision Trees, Random Forests, Bagging, Boosting, Natural Language Processing
-- [ ] **Networks** | Network Analysis & Robustness, Communities, Recommended Systems, Neural Networks, Tensorflow
-- [ ] **Statistics** | Probability distributions, Confidence Intervals, Central Limit Theorem, Bayes Rule, Naive Bayes
-- [ ] **Big Data** | Map-Reduce Algorithm, Divide and Conquer, Hadoop, Spark, AWS
-- [ ] **Timeseries** | Basics, Autocorrelations, ARMA, ARIMA models
-- [ ] **Additional** | HTML, Webscraping, RegEx, Databases, API's
+
 -->
 
 <!--
