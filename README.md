@@ -4,12 +4,12 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 
 ## 
 
-- [x] **Pure Python** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay) 
-- [ ] **Exploratory Data Analysis** | [SATs](https://github.com/Marc-Lodge/SATs) 
-- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)  
-- [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames) | [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
+- [x] **Pure Python** | [Pokemon Stay](https://github.com/Marc-Lodge/Pokemon_Stay)
+- [ ] **Exploratory Data Analysis** | [SATs](https://github.com/Marc-Lodge/SATs)
+- [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
+- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
-- [ ] **Web Scraping** | [Indeed.com](https://github.com/Marc-Lodge/Indeed) 
+- [ ] **Web Scraping** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
 - [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
 
 *Other Projects Coming Soon!*
@@ -31,6 +31,7 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 - **Big Data** | Map-Reduce Algorithm, Divide and Conquer, Hadoop, Spark, AWS
 - **Timeseries** | Basics, Autocorrelations, ARMA, ARIMA models
 - **Additional** | HTML, Webscraping, RegEx, Databases, API's
+| [Seoul Cycle](https://github.com/Marc-Lodge/Seoul_Cycle)
 -->
 
 <!--
