@@ -17,8 +17,8 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 *Other Projects Coming Soon!*
 
 - [ ] ***SQL***
-- [ ] ***Ensemble Methods***
 - [ ] ***Unsupervised Machine Learning***
+- [ ] ***Ensemble Methods***
 - [ ] ***Advanced Statistics***
 - [ ] ***Big Data / Spark / AWS*** 
 - [ ] ***Networks / Neural Networks***
