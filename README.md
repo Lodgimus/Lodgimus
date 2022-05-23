@@ -10,7 +10,7 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 - [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 - [ ] **Web Scraping** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
-- [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
+- [ ] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/Political_Media)
 
 *Other Projects Coming Soon!*
 
