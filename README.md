@@ -9,9 +9,9 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 - [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay)
 - [x] **Data Analysis & Visualisation** | [SATs](https://github.com/Marc-Lodge/SATs)
 - [ ] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
+- [ ] **Web Scraping & Machine Learning** | [Indeed](https://github.com/Marc-Lodge/Indeed)
 - [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
-- [ ] **Web Scraping** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
-- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)
+- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI) | [Seoul](https://github.com/Marc-Lodge/Seoul)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
 *Other Projects Coming Soon!*
