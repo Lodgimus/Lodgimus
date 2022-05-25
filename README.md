@@ -11,7 +11,7 @@ I am a Data Scientist, please see below my areas of knowledge along with some pr
 - [ ] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
 - [ ] **Web Scraping** | [Indeed.com](https://github.com/Marc-Lodge/Indeed)
 - [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI)
-- [ ] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/Political_Media)
+- [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
 *Other Projects Coming Soon!*
