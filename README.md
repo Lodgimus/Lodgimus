@@ -17,6 +17,7 @@ I am a Data Analyst & Data Scientist, please see below my areas of knowledge alo
 *Other Projects Coming Soon!*
 
 - [ ] ***SQL***
+- [ ] ***Tableau***
 - [ ] ***Unsupervised Machine Learning***
 - [ ] ***Ensemble Methods***
 - [ ] ***Advanced Statistics***
