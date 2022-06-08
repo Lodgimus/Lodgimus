@@ -10,7 +10,7 @@ I am a Data Analyst & Data Scientist, please see below my areas of knowledge alo
 - [x] **Data Analysis & Visualisation** | [SATs](https://github.com/Marc-Lodge/SATs)
 - [ ] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
 - [ ] **Web Scraping & Machine Learning** | [Indeed](https://github.com/Marc-Lodge/Indeed)
-- [ ] **Natural Language Processing** | [Political Media](https://github.com/Marc-Lodge/Political_Media)
+- [ ] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/political_social_media)
 - [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI) | [Seoul](https://github.com/Marc-Lodge/Seoul)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 
