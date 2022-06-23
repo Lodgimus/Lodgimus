@@ -16,7 +16,7 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 
 *Other Projects Coming Soon!*
 
-- [ ] ***SQL | [SQLite](https://github.com/Marc-Lodge/SQLite)| | [mySQL](https://github.com/Marc-Lodge/mySQL)| ***
+- [ ] ***SQL | [SQLite](https://github.com/Marc-Lodge/SQLite) | [mySQL](https://github.com/Marc-Lodge/mySQL)***
 - [ ] ***Tableau***
 - [ ] ***Unsupervised Machine Learning***
 - [ ] ***Ensemble Methods***
