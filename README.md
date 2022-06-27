@@ -6,6 +6,7 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 
 ## 
 
+- [x] **SQL** | [SQLite](https://github.com/Marc-Lodge/SQLite)
 - [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay)
 - [x] **Data Analysis & Visualisation** | [SATs](https://github.com/Marc-Lodge/SATs)
 - [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
@@ -14,7 +15,6 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 
 *Other Projects Coming Soon!*
 
-- [ ] ***SQL | [SQLite](https://github.com/Marc-Lodge/SQLite)***
 - [ ] *****Web Scraping & Machine Learning** | [Indeed](https://github.com/Marc-Lodge/Indeed)***
 - [ ] *****Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)***
 - [ ] ***Tableau***
