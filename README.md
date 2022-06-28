@@ -18,6 +18,7 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 - [ ] *****Web Scraping & Machine Learning** | [Indeed](https://github.com/Marc-Lodge/Indeed)***
 - [ ] *****Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)***
 - [ ] ***Tableau***
+- [ ] ***Power BI***
 - [ ] ***Unsupervised Machine Learning***
 - [ ] ***Ensemble Methods***
 - [ ] ***Advanced Statistics***
