@@ -12,8 +12,8 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 - [x] **Data Visualisation** | [Python-Data-Viz](https://github.com/Marc-Lodge/Data-Viz)
 - [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames) | [EPI](https://github.com/Marc-Lodge/EPI) 
 - [x] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/political_social_media)
-- [ ] **Web Scraping** | [Indeed](https://github.com/Marc-Lodge/Indeed)
 - [ ] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
+- [ ] **Web Scraping** | [Indeed](https://github.com/Marc-Lodge/Indeed)
 
 *Other Projects Coming Soon!*
 
