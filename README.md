@@ -11,7 +11,7 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 - [x] **Data Analysis & Visualisation** | [SATs](https://github.com/Marc-Lodge/SATs)
 - [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
 - [x] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/political_social_media)
-- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI) | [Seoul](https://github.com/Marc-Lodge/Seoul)
+- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI) 
 
 *Other Projects Coming Soon!*
 
