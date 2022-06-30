@@ -9,9 +9,8 @@ I am a Data Analyst / Quanititative Analyst / Data Scientist, please see below m
 - [x] **SQL** | [SQLite](https://github.com/Marc-Lodge/SQLite)
 - [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay)
 - [x] **Data Analysis & Visualisation** | [SATs](https://github.com/Marc-Lodge/SATs)
-- [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames)
+- [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames) | [EPI](https://github.com/Marc-Lodge/EPI) 
 - [x] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/political_social_media)
-- [x] **Linear Regression** | [EPI](https://github.com/Marc-Lodge/EPI) 
 
 *Other Projects Coming Soon!*
 
