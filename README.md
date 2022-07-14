@@ -24,6 +24,7 @@ I am a Data Analyst / Quantitative Analyst / Data Scientist, please see below my
 - [ ] ***Advanced Statistics***
 - [ ] ***Big Data / Spark / AWS*** 
 - [ ] ***Networks / Neural Networks***
+- [ ] ***Keras / PyTorch***
 
 <!--
 - **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
