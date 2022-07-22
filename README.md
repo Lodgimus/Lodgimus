@@ -7,7 +7,7 @@ I am a Data Analyst / Quantitative Analyst / Data Scientist, please see below my
 ## 
 
 - [x] **SQL** | [SQLite](https://github.com/Marc-Lodge/SQLite)
-- [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay)
+- [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay) | [DrumMachine](https://github.com/Marc-Lodge/Drum)
 - [x] **Exploratory Data Analysis** | [SATs](https://github.com/Marc-Lodge/SATs)
 - [ ] **Data Visualisation** | [Python-Data-Viz](https://github.com/Marc-Lodge/Data-Viz)
 - [x] **Supervised Machine Learning** | [Ames](https://github.com/Marc-Lodge/Ames) | [EPI](https://github.com/Marc-Lodge/EPI) 
