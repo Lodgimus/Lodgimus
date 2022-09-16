@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Data Analyst / Quantitative Analyst / Data Scientist, please see below my areas of knowledge along with some projects that demonstrate them. 
+I am a Data Analyst / Quantitative Analyst / Data Engineer/ Data Scientist, please see below my areas of knowledge along with some projects that demonstrate them. 
 
 [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
@@ -25,6 +25,7 @@ I am a Data Analyst / Quantitative Analyst / Data Scientist, please see below my
 - [ ] ***Big Data / Spark / AWS*** 
 - [ ] ***Networks / Neural Networks***
 - [ ] ***Keras / PyTorch***
+- [ ] ***Data Engineering***
 
 <!--
 - **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
