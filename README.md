@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I am a Data Analyst / Quantitative Analyst / Data Engineer / Data Scientist, please see below my areas of knowledge along with some projects that demonstrate them. 
+I am a Data professional, with experience in data analysis, data visualization, data engineering and data science. 
+
+Please see below projects that demonstrate my areas of knowledge.
 
 [Feel free to get in touch! 😊](https://www.linkedin.com/in/marc-lodge)
 
